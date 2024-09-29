@@ -1,5 +1,7 @@
 # Spatial DJ Project
 
+This project is meant to implement handpose tracking software taken from MediaPipe and use it to control and create music in the context of a Max-8 Spatial Programming project environment.
+
 This example demonstrates both the handtracking and gesture recognition displayed within the jweb-hands-gesture-recognizer taken from MediaPipe. Note this is taken from the github repository of the orignal prject:
 
 ![Max example patcher](./jweb-hands-gesture-recognizer.gif)
